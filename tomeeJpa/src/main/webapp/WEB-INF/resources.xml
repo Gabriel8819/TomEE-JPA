@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Resources>
+
+	
+	<Resource id="myDatasource" type="javax.sql.DataSource">
+		
+		jdbcDriver = com.mysql.cj.jdbc.Driver
+		jdbcUrl = jdbc:mysql://localhost/javaee
+		userName =  root
+		password
+	</Resource>
+
+
+</Resources>
+
+ 
