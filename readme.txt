@@ -10,3 +10,9 @@ DataSource with @Resource(name="")
 	3-Add annotation
 
 DataSource with JPA
+
+	1 - persistence xml in webap/META-INF/persistence.xml
+	2 - Create EJB + @PeresistenceContext(unitName="")
+	3 - Create Entity
+
+
