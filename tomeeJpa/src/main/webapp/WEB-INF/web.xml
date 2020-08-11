@@ -5,12 +5,16 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
                              http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
-
+<!-- 
 	<resource-ref>
 		<res-ref-name>myDs</res-ref-name>
 		<res-type>javax.sql.DataSource</res-type>
+	
 		<mapped-name>myDatasource</mapped-name>
+		
+		
 	</resource-ref> 
 
+ -->
 
 </web-app>
